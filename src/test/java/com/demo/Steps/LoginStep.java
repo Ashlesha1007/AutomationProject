@@ -26,7 +26,7 @@ public class LoginStep extends BaseClass{
 		 Assert.assertTrue(false);
 	 }
 	 la.MouseHovOnAccountandLists();
-	 logger.log(LogStatus.INFO, "test123");
+	 logger.log(LogStatus.INFO, "test@123");
   }
   
  /* @Test
