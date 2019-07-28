@@ -8,7 +8,7 @@ import com.relevantcodes.extentreports.LogStatus;
 
 import junit.framework.Assert;
 
-public class LoginStep extends BaseClass {
+public class LoginStep2 extends BaseClass {
 	
   @Test(priority=0)
   public void logingmail() throws InterruptedException {
